@@ -68,3 +68,10 @@
     1. XML
     1. JSON
     1. YAML
+    
+keyboard shortcuts I find useful
+plugins
+my reading list
+nested wiki view
+"Quests" or "challenges" for interractive learning
+

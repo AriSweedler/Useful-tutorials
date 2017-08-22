@@ -1,28 +1,14 @@
 # Useful-tutorials
 
 ## Rules that won't fail you:
+
 * **Wikipedia and stackoverflow are your friends**
-
 * It's possible that information online is wrong
-
-* **Have a reading "stack".** If you see something that you don't understand, stop and look it up.
-    * It's okay to have 5 tabs open when you're just trying to look up what "DDR4" is.
-    * ***[DDR4](https://en.wikipedia.org/wiki/DDR4_SDRAM) (double data rate version 4)** is a protocol to transfer data from **DIMM**s **(Dual in line memory module)** which are the circuit boards that contain **RAM (random access memory)** chips which store **volatile** memory.*
-    
-* Explore the links at the bottom of good guides!
-
-* **Everything is made for a reason** You don't understand something until you understand ALL of it.
-    * You shouldn't be confused as to why anything was a commercial success
-    * What does it do?
-    * What's the dynamic between **it** vs. its **predecessors**, **rivals**, and **successors**.
-        * DDR4 draws less power and is faster than DDR3. Why did we ever even use DDR3 then??? Because we didn't have the technology to make DDR4 back when DDR3 was popular. What does this imply about DDR3 vs. DDR2?
-    * How do **I** use it? How could I teach **others** to use it?
-    
-* Learn what **TLA**s mean!!! (Three letter acronyms). Keep trying to interpret them into their words until it's second nature. This makes reading text laden with TLAs way easier. (See??)
-
+* **Information I give is formatted to be read as a [stack](placelinkhere).** 
+* Everything is made for a reason
+* **Learn what TLAs mean**
 * Know where a guide falls on the guide-o-graph:
-    * "`Quick-Start` to `reference`" (Is this not enough information? Is this too confusing?) axis
-    * "`Beginner` to `advanced`" (Do you already know this stuff? Do you not know stuff they assume you do?) axis
+ 
 
 
 
